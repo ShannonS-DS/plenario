@@ -27,11 +27,11 @@ import os
 sys.path.insert(0, os.path.abspath('../../plenario/api'))
 
 
-# Modules listed below are incompatible and are being mocked for documentational# purposes.
+# Modules listed below are incompatible and are being mocked for documentational purposes.
 
 
 import mock
-MOCK_MODULES = ['shapely']
+MOCK_MODULES = ['shapely', 'plenario', 'flask.ext.cache', 'plenario.settings', 'shapely.geometry', 'plenario.utils.helpers', 'sqlalchemy.sql.schema', 'plenario.utils', 'sqlalchemy.sql', 'sqlalchemy', 'plenario.api', 'plenario.api.common', 'plenario.models', 'plenario.database', 'dateutil.parser', 'shapely.wkb', 'plenario.utils.ogr2ogr', 'dateutil', 'sqlalchemy.exc', 'plenario.api.point', 'sqlalchemy.types']
 for mod_name in MOCK_MODULES:
     sys.modules[mod_name] = mock.Mock()
 

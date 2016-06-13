@@ -3,21 +3,54 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Plenario API Documentation's documentation!
-======================================================
+Plenario API Documentation
+==========================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   common
+   
+   point
+   
+   sensor
+
+   shape
+
+common.py docs
+**************
 
 .. automodule:: common
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+point.py docs
+*************
 
 .. automodule:: point
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+sensor.py docs
+**************
 
 .. automodule:: sensor
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+shape.py docs
+*************
 
 .. automodule:: shape
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Indices and tables
 ==================
