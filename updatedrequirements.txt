@@ -1,0 +1,26 @@
+Flask
+Flask-Cache
+flask_sqlalchemy
+gunicorn
+psycopg2
+geoalchemy2
+celery
+boto
+#
+# Removed shapely
+#
+requests
+raven
+blinker
+Flask-WTF
+Flask-Login
+flask-bcrypt
+csvkit
+redis
+pytz
+datetime_truncate
+pyshp
+git+https://github.com/datamade/python-metar.git#egg=metar
+lxml
+alembic
+boto3
