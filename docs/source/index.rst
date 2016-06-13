@@ -11,13 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   common
-   
-   point
-   
-   sensor
+   introduction.rst
 
-   shape
+
+
 
 common.py docs
 **************
