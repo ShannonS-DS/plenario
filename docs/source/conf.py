@@ -50,9 +50,7 @@ for mod_name in MOCK_MODULES:
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
-    'sphinx.ext.viewcode',
-    'sphinxcontrib.httpdomain',
-    'sphinxcontrib.autohttp.flask'
+    'sphinx.ext.viewcode'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
