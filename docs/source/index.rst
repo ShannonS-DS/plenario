@@ -12,8 +12,7 @@ Contents:
    :maxdepth: 2
    
    introduction
-   nonsense
-
+   plenario.alembic.rst   
 
 
 common.py docs
@@ -47,6 +46,20 @@ shape.py docs
    :members:
    :undoc-members:
    :show-inheritance:
+
+
+
+env.py docs 
+***********
+
+.. automodule:: env
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   
+
+Autoflask Attempt
+*****************
 
 
 

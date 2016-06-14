@@ -24,7 +24,8 @@ import os
 # sys.path.insert(0, os.path.abspath('.'))
 
 
-sys.path.insert(0, os.path.abspath('../../plenario/api/'))
+sys.path.insert(0, os.path.abspath('../../plenario/api'))
+sys.path.insert(0, os.path.abspath('../../plenario/alembic'))
 
 
 # Modules listed below are incompatible and are being mocked for documentational purposes.
@@ -50,6 +51,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.viewcode',
+    'sphinxcontrib.httpdomain',
+    'sphinxcontrib.autohttp.flask'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -140,7 +143,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
