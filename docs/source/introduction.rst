@@ -4,7 +4,7 @@ About Plenario
 
 Over the past few years, levels of government from the `federal administration <https://data.gov>`_ to individual municipalities like the `City of Chicago <https://data.cityofchicago.org/>`_ have begun embracing open data, releasing datasets publicly for free. This movement has vastly increased the amount of data available, but existing platforms and technologies are designed mainly to view and access individual datasets one at a time. This restriction contradicts decades of research contending that no aspect of the urban landscape is truly isolated; **in today's cities**, **everything is connected to everything else**.
 
-Furthermore, researchers are often limited in the questions they can ask by the data available to answer them. It is not uncommon to spend 75% of one’s time locating, downloading, cleaning, and standardizing the relevant datasets—leaving precious little resources for the important work.
+Furthermore, researchers are often limited in the questions they can ask by the data available to answer them. It is not uncommon to spend 75% of one\’s time locating, downloading, cleaning, and standardizing the relevant datasets \— leaving precious little resources for the important work.
 
 
 Mission
@@ -50,7 +50,7 @@ Plenario is funded by the `National Science Foundation Computer and Information 
 Team
 ^^^^
 
-The Plenario team brings together students and scientists from the Computation Institute and from the University of Chicago’s Harris School for Public Policy, with funding from the John D. and Catherine T. MacArthur Foundation. It is being implemented by the Urban Center for Computation and Data and `DataMade <datamade.us>`_.
+The Plenario team brings together students and scientists from the Computation Institute and from the University of Chicago\’s Harris School for Public Policy, with funding from the John D. and Catherine T. MacArthur Foundation. It is being implemented by the Urban Center for Computation and Data and `DataMade <datamade.us>`_.
 
 Get Involved
 ^^^^^^^^^^^^

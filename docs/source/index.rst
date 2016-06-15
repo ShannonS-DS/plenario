@@ -10,58 +10,16 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
-   introduction
-   plenario.alembic.rst   
+   :caption: Introduction
 
-
-common.py docs
-**************
-
-.. automodule:: common
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-point.py docs
-*************
-
-.. automodule:: point
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensor.py docs
-**************
-
-.. automodule:: sensor
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-shape.py docs
-*************
-
-.. automodule:: shape
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-
-
-env.py docs 
-***********
-
-.. automodule:: env
-   :members:
-   :undoc-members:
-   :show-inheritance:
+   introduction   
    
 
-Autoflask Attempt
-*****************
+.. toctree::
+   :maxdepth: 2
+   :caption: API Documentation
 
-
+   plenario.api.rst
 
 
 Indices and tables

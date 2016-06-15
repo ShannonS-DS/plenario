@@ -25,7 +25,7 @@ import os
 
 
 sys.path.insert(0, os.path.abspath('../../plenario/api'))
-sys.path.insert(0, os.path.abspath('../../plenario/alembic'))
+sys.path.insert(0, os.path.abspath('../../plenario/utils'))
 
 
 # Modules listed below are incompatible and are being mocked for documentational purposes.
